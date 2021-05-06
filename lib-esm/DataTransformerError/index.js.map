@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/DataTransformerError/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA;IAAmC,wCAAK;IAGtC,8BAAY,KAAyC;QAArD,YACE,kBAAM,OAAO,KAAK,KAAK,QAAQ,CAAC,CAAC,CAAC,KAAK,CAAC,OAAO,CAAC,CAAC,CAAC,KAAK,CAAC,SACzD;QAJD,UAAI,GAAG,sBAAsB,CAAC;;IAI9B,CAAC;IACH,2BAAC;AAAD,CAAC,AAND,CAAmC,KAAK,GAMvC;AAED,eAAe,oBAAoB,CAAC"}
