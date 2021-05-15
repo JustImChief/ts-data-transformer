@@ -1,6 +1,6 @@
 {
   "name": "ts-data-transformer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data transformer",
   "main": "src/index.ts",
   "module": "lib-esm/index.js",
