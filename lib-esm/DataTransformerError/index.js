@@ -16,7 +16,7 @@ var __extends = (this && this.__extends) || (function () {
 var DataTransformerError = /** @class */ (function (_super) {
     __extends(DataTransformerError, _super);
     function DataTransformerError(error) {
-        var _this = _super.call(this, typeof error !== 'string' ? error.message : error) || this;
+        var _this = _super.call(this, typeof error === 'object' ? error.message : error) || this;
         _this.name = 'DataTransformerError';
         return _this;
     }

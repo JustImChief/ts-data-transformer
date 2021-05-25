@@ -2,7 +2,7 @@ class DataTransformerError extends Error {
   name = 'DataTransformerError';
 
   constructor(error?: DataTransformerErrorType | string) {
-    super(typeof error !== 'string' ? error.message : error);
+    super(typeof error === 'object' ? error.message : error);
   }
 }
 
