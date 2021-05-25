@@ -1,4 +1,4 @@
-import { isNaN, isNull, isNumber, isUndefined } from 'ts-data-validator';
+import { isNull, isNumber, isUndefined } from 'ts-data-validator';
 
 import DataTransformerError from './DataTransformerError';
 import toString             from './toString';
